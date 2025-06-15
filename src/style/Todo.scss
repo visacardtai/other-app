@@ -1,0 +1,21 @@
+.todo {
+  display: flex;
+  width: 700px;
+  justify-content: space-between;
+
+  .sp-name {
+    width: 300px;
+    text-align: left;
+  }
+
+  .sp-address {
+    width: 250px;
+    text-align: left;
+  }
+
+  .btn {
+    margin-right: 10px;
+    width: 60px;
+    height: fit-content;
+  }
+}
